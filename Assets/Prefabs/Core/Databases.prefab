@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5611434609937609414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9064821502224952114}
+  - component: {fileID: 4830531569166273279}
+  - component: {fileID: 5407707708821466599}
+  - component: {fileID: 1268957770318245412}
+  - component: {fileID: 4981326875884906992}
+  - component: {fileID: 3722032707788710425}
+  - component: {fileID: 4764627750011362411}
+  m_Layer: 0
+  m_Name: Databases
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9064821502224952114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4830531569166273279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36bd6a5aaabd4df438250e46d3c3d603, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 8207339988780771587, guid: d18aac24c1331c64699c21ffe0155d9d, type: 3}
+  - {fileID: 1030390235179399330, guid: 5f90ac416f789a1468ec85eaaa22a6ee, type: 3}
+  - {fileID: 922161929342287264, guid: 57dcb15b8b7b1a84bafce8b4775cc5a7, type: 3}
+  - {fileID: 8207339988780771587, guid: 9c951a690d961c24db0caee865eb81ca, type: 3}
+  - {fileID: 8207339988780771587, guid: 33cdc654f5960fd489748ef6a2a173ea, type: 3}
+  - {fileID: 922161929342287264, guid: 7d895149a2d0e5840909b77a5b50089e, type: 3}
+  - {fileID: 3478979135367918515, guid: d4f2c73d37f00cc4c9b777038f70b5ed, type: 3}
+  - {fileID: 8693644335189655005, guid: fc72caabeccfc2748afa1b040ac9a512, type: 3}
+--- !u!114 &5407707708821466599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c28158a8cf56234abf8270dcda6191c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemRarityData:
+  - rarity: 0
+    spawnChance: 50
+    color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
+  - rarity: 1
+    spawnChance: 35
+    color: {r: 0.06269993, g: 0.6320754, b: 0, a: 1}
+  - rarity: 2
+    spawnChance: 12
+    color: {r: 0.7058824, g: 0.6666667, b: 0, a: 1}
+  - rarity: 3
+    spawnChance: 3
+    color: {r: 0.5686275, g: 0, b: 0.8392157, a: 1}
+  exludedRarityColors:
+  - rarity: 4
+    color: {r: 1, g: 0.58261454, b: 0.3160377, a: 1}
+  rarityPositiveStatIncrement: 0
+  rarityNegativeStatIncrement: 0
+--- !u!114 &1268957770318245412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1def672403a3ad44aefeb6e9dba3c23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  categories:
+  - category: 0
+    baseCost: 1
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 2
+    roundPositiveStatIncrement: 2
+    roundNegativeStatIncrement: 5
+  - category: 1
+    baseCost: 1
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 2
+    roundPositiveStatIncrement: 0
+    roundNegativeStatIncrement: 1
+  - category: 2
+    baseCost: 1
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 2
+    roundPositiveStatIncrement: 2.5
+    roundNegativeStatIncrement: 5
+  - category: 3
+    baseCost: 1
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 2
+    roundPositiveStatIncrement: 3
+    roundNegativeStatIncrement: 0.5
+  - category: 4
+    baseCost: 1
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 2
+    roundPositiveStatIncrement: 12
+    roundNegativeStatIncrement: 1.2
+  - category: 5
+    baseCost: 2
+    roundCostIncrement: 0.35
+    exchangeCostIncrement: 3
+    roundPositiveStatIncrement: 5
+    roundNegativeStatIncrement: 5
+--- !u!114 &4981326875884906992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9d0320981c571a4f85bd68f599d9de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3722032707788710425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01972fede3c919c4581dfb295a83033b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4764627750011362411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5611434609937609414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63141efe22835fa49aef098328ecb3ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

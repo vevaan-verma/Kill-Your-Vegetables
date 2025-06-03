@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7140534419018289427
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7145337694497356082}
+  - component: {fileID: 3004331527055645239}
+  m_Layer: 0
+  m_Name: RoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7145337694497356082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7140534419018289427}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3004331527055645239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7140534419018289427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e949e5234df6b4fbfb9cdc5c4f3ba4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseEnemiesPerRound: 15
+  enemiesPerRoundIncrement: 3
+  roundDuration: 100
+  spawnDuration: 40
+  roundEndDelay: 2.5
+  enemySpawnSet:
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 50
+    - enemyType: 2
+      spawnProbability: 35
+    - enemyType: 0
+      spawnProbability: 15
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 50
+    - enemyType: 4
+      spawnProbability: 25
+    - enemyType: 1
+      spawnProbability: 25
+  - enemySpawnData:
+    - enemyType: 2
+      spawnProbability: 25
+    - enemyType: 1
+      spawnProbability: 60
+    - enemyType: 7
+      spawnProbability: 15
+  - enemySpawnData:
+    - enemyType: 4
+      spawnProbability: 50
+    - enemyType: 1
+      spawnProbability: 40
+    - enemyType: 0
+      spawnProbability: 10
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 65
+    - enemyType: 5
+      spawnProbability: 20
+    - enemyType: 2
+      spawnProbability: 15
+  - enemySpawnData:
+    - enemyType: 5
+      spawnProbability: 35
+    - enemyType: 2
+      spawnProbability: 20
+    - enemyType: 0
+      spawnProbability: 10
+    - enemyType: 4
+      spawnProbability: 35
+  - enemySpawnData:
+    - enemyType: 0
+      spawnProbability: 10
+    - enemyType: 4
+      spawnProbability: 70
+    - enemyType: 7
+      spawnProbability: 20
+  - enemySpawnData:
+    - enemyType: 1
+      spawnProbability: 50
+    - enemyType: 3
+      spawnProbability: 50
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 100
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 50
+    - enemyType: 5
+      spawnProbability: 40
+    - enemyType: 7
+      spawnProbability: 10
+  - enemySpawnData:
+    - enemyType: 3
+      spawnProbability: 60
+    - enemyType: 0
+      spawnProbability: 15
+    - enemyType: 4
+      spawnProbability: 25
+  - enemySpawnData:
+    - enemyType: 5
+      spawnProbability: 40
+    - enemyType: 4
+      spawnProbability: 40
+    - enemyType: 7
+      spawnProbability: 20
+  trashCanDynamicThreshold: 50
