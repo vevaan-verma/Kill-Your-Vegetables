@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 2f4019e37483f71409be0b88a0bcd1e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 107294038686058669
+    second: BellPepperAttackWindDown_0
+  - first:
+      213: 871990569718681963
+    second: BellPepperAttackWindDown_1
+  - first:
+      213: 4602692014159220653
+    second: BellPepperAttackWindDown_2
+  - first:
+      213: 698914634455457128
+    second: BellPepperAttackWindDown_3
+  - first:
+      213: 4581781940741864516
+    second: BellPepperAttackWindDown_4
+  - first:
+      213: 1168050350719829022
+    second: BellPepperAttackWindDown_5
+  - first:
+      213: 4756846902651305252
+    second: BellPepperAttackWindDown_6
+  - first:
+      213: 5853801921038683493
+    second: BellPepperAttackWindDown_7
+  - first:
+      213: -670062429286917556
+    second: BellPepperAttackWindDown_8
+  - first:
+      213: 9008442743882077054
+    second: BellPepperAttackWindDown_9
+  - first:
+      213: 4566637046460350937
+    second: BellPepperAttackWindDown_10
+  - first:
+      213: -1128309033324148836
+    second: BellPepperAttackWindDown_11
+  - first:
+      213: -4636839327526589074
+    second: BellPepperAttackWindDown_12
+  - first:
+      213: 364207241508737054
+    second: BellPepperAttackWindDown_13
+  - first:
+      213: 5118811602223110207
+    second: BellPepperAttackWindDown_14
+  - first:
+      213: -6020946473183544350
+    second: BellPepperAttackWindDown_15
+  - first:
+      213: -2155445886802156979
+    second: BellPepperAttackWindDown_16
+  - first:
+      213: 754968278093531519
+    second: BellPepperAttackWindDown_17
+  - first:
+      213: -7023380876628105577
+    second: BellPepperAttackWindDown_18
+  - first:
+      213: -7359718518686723586
+    second: BellPepperAttackWindDown_19
+  - first:
+      213: -7889557360805825425
+    second: BellPepperAttackWindDown_20
+  - first:
+      213: -8806247701873740439
+    second: BellPepperAttackWindDown_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_1
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de71254bd55534cac379db1c2c7f56
+      internalID: -1915137727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_2
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee631017189174c95f65d864babc3a
+      internalID: -1833593337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_3
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b427d33609c514b89b48b1def799f3
+      internalID: 1118831920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_4
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2325e8918eaf3249bff99245d793dab
+      internalID: 71830261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_5
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1803d4a716b2ad4a8676862d5a8661a
+      internalID: -1502007086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e476e43b6c1c624e944346957fa7316
+      internalID: 1953919193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindDown_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1915e991c25ae994ca700023045e27d8
+      internalID: 145529117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8566822e2a9143748995e9c166c4fb7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BellPepperAttackWindDown_0: -2062061910
+      BellPepperAttackWindDown_1: -1915137727
+      BellPepperAttackWindDown_10: -1926740399
+      BellPepperAttackWindDown_11: -107080572
+      BellPepperAttackWindDown_12: -756937753
+      BellPepperAttackWindDown_13: -2019802494
+      BellPepperAttackWindDown_14: 1233107309
+      BellPepperAttackWindDown_2: -1833593337
+      BellPepperAttackWindDown_3: 1118831920
+      BellPepperAttackWindDown_4: 71830261
+      BellPepperAttackWindDown_5: -1502007086
+      BellPepperAttackWindDown_6: 1953919193
+      BellPepperAttackWindDown_7: 145529117
+      BellPepperAttackWindDown_8: -176411390
+      BellPepperAttackWindDown_9: -458004419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

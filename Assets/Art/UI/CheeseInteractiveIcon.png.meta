@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: fdb5950ef1317fd4f9013e52322e7adf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7476697345807422334
+    second: CHEESE INTERACTIVE_0
+  - first:
+      213: -1934785956199290879
+    second: CHEESE INTERACTIVE_1
+  - first:
+      213: 6175904940825837753
+    second: CHEESE INTERACTIVE_2
+  - first:
+      213: -6849814356866520383
+    second: CHEESE INTERACTIVE_3
+  - first:
+      213: 4185949624960273193
+    second: CHEESE INTERACTIVE_4
+  - first:
+      213: 3964962913587429007
+    second: CHEESE INTERACTIVE_5
+  - first:
+      213: -7341282102975035075
+    second: CHEESE INTERACTIVE_6
+  - first:
+      213: -2421791762691013758
+    second: CHEESE INTERACTIVE_7
+  - first:
+      213: 4913227762667103984
+    second: CHEESE INTERACTIVE_8
+  - first:
+      213: 2551426388680048705
+    second: CHEESE INTERACTIVE_9
+  - first:
+      213: -7864619295618471518
+    second: CHEESE INTERACTIVE_10
+  - first:
+      213: 2520679428502827161
+    second: CHEESE INTERACTIVE_11
+  - first:
+      213: 1550063664932672626
+    second: CHEESE INTERACTIVE_12
+  - first:
+      213: 3257881738156403354
+    second: CHEESE INTERACTIVE_13
+  - first:
+      213: 4945362791909835118
+    second: CHEESE INTERACTIVE_14
+  - first:
+      213: -3507610668822372830
+    second: CHEESE INTERACTIVE_15
+  - first:
+      213: 9052077203926692117
+    second: CHEESE INTERACTIVE_16
+  - first:
+      213: 768250602970820390
+    second: CHEESE INTERACTIVE_17
+  - first:
+      213: 6475618503939912108
+    second: CHEESE INTERACTIVE_18
+  - first:
+      213: -4325596208404766236
+    second: CHEESE INTERACTIVE_19
+  - first:
+      213: -5313184121466495389
+    second: CHEESE INTERACTIVE_20
+  - first:
+      213: 2211185663183020374
+    second: CHEESE INTERACTIVE_21
+  - first:
+      213: -5375267202552059944
+    second: CHEESE INTERACTIVE_22
+  - first:
+      213: 6325671807224639866
+    second: CHEESE INTERACTIVE_23
+  - first:
+      213: 1268125496955069720
+    second: CHEESE INTERACTIVE_24
+  - first:
+      213: -4056145372194333305
+    second: CHEESE INTERACTIVE_25
+  - first:
+      213: -5551530788663343747
+    second: CHEESE INTERACTIVE_26
+  - first:
+      213: -803361655528203901
+    second: CHEESE INTERACTIVE_27
+  - first:
+      213: 1492277069619471061
+    second: CHEESE INTERACTIVE_28
+  - first:
+      213: -8113264262231716034
+    second: CHEESE INTERACTIVE_29
+  - first:
+      213: -5009548307939872319
+    second: CHEESE INTERACTIVE_30
+  - first:
+      213: -6319316559277536666
+    second: CHEESE INTERACTIVE_31
+  - first:
+      213: 1351546980139118043
+    second: CHEESE INTERACTIVE_32
+  - first:
+      213: -5799754781077332617
+    second: CHEESE INTERACTIVE_33
+  - first:
+      213: 7593611671977799699
+    second: CHEESE INTERACTIVE_34
+  - first:
+      213: 4422390517637276307
+    second: CHEESE INTERACTIVE_35
+  - first:
+      213: -3406618096149271158
+    second: CHEESE INTERACTIVE_36
+  - first:
+      213: -2538005850985089717
+    second: CHEESE INTERACTIVE_37
+  - first:
+      213: -2454776058442849600
+    second: CHEESE INTERACTIVE_38
+  - first:
+      213: 8065466008322974106
+    second: CHEESE INTERACTIVE_39
+  - first:
+      213: -5352035303677749887
+    second: CHEESE INTERACTIVE_40
+  - first:
+      213: -6866992518883549336
+    second: CHEESE INTERACTIVE_41
+  - first:
+      213: 3455383483147032585
+    second: CHEESE INTERACTIVE_42
+  - first:
+      213: -3627450707909045105
+    second: CHEESE INTERACTIVE_43
+  - first:
+      213: -3843530902910895931
+    second: CHEESE INTERACTIVE_44
+  - first:
+      213: -8289454433897174358
+    second: CHEESE INTERACTIVE_45
+  - first:
+      213: 299759626885316085
+    second: CHEESE INTERACTIVE_46
+  - first:
+      213: -1327778753400692533
+    second: CHEESE INTERACTIVE_47
+  - first:
+      213: -2002612607437547313
+    second: CHEESE INTERACTIVE_48
+  - first:
+      213: -6497014696127312659
+    second: CHEESE INTERACTIVE_49
+  - first:
+      213: -904318146998412312
+    second: CHEESE INTERACTIVE_50
+  - first:
+      213: 8391729440443493557
+    second: CHEESE INTERACTIVE_51
+  - first:
+      213: 3489572131775503534
+    second: CHEESE INTERACTIVE_52
+  - first:
+      213: 5935397935465354525
+    second: CHEESE INTERACTIVE_53
+  - first:
+      213: 1069071295684855394
+    second: CHEESE INTERACTIVE_54
+  - first:
+      213: 6422762908420410694
+    second: CHEESE INTERACTIVE_55
+  - first:
+      213: -8347497964644882064
+    second: CHEESE INTERACTIVE_56
+  - first:
+      213: 734797527001070432
+    second: CHEESE INTERACTIVE_57
+  - first:
+      213: 1083393998736310878
+    second: CHEESE INTERACTIVE_58
+  - first:
+      213: -733963561661659225
+    second: CHEESE INTERACTIVE_59
+  - first:
+      213: -3349434463564268542
+    second: CHEESE INTERACTIVE_60
+  - first:
+      213: 104776026518297010
+    second: CHEESE INTERACTIVE_61
+  - first:
+      213: 7772258754946550698
+    second: CHEESE INTERACTIVE_62
+  - first:
+      213: 1669508730073871036
+    second: CHEESE INTERACTIVE_63
+  - first:
+      213: 3207424491651669189
+    second: CHEESE INTERACTIVE_64
+  - first:
+      213: -1966775104701876068
+    second: CHEESE INTERACTIVE_65
+  - first:
+      213: 9195279827957143223
+    second: CHEESE INTERACTIVE_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1731
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7315fd6f9092c760800000000000000
+      internalID: 7476697345807422334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1731
+        width: 155
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a35c7c624625e0800000000000000
+      internalID: -1934785956199290879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1731
+        width: 155
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0018482d835b550800000000000000
+      internalID: 6175904940825837753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1731
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa991622290f0a0800000000000000
+      internalID: -6849814356866520383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_4
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1731
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bcf6b710b771a30800000000000000
+      internalID: 4185949624960273193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_5
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1731
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef9fb33c0660730800000000000000
+      internalID: 3964962913587429007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_6
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1731
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d398d38b2d68e1a90800000000000000
+      internalID: -7341282102975035075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1661
+        width: 438
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c5d81931146ed0800000000000000
+      internalID: -2421791762691013758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1661
+        width: 155
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f62c566e9a4f2440800000000000000
+      internalID: 4913227762667103984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1661
+        width: 155
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14005df48cc786320800000000000000
+      internalID: 2551426388680048705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1661
+        width: 440
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a96afe4b624bd290800000000000000
+      internalID: -7864619295618471518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1661
+        width: 440
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990bb88c5904bf220800000000000000
+      internalID: 2520679428502827161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_12
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1661
+        width: 440
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745d8fc0bee28510800000000000000
+      internalID: 1550063664932672626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_13
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1661
+        width: 440
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6b0b0e22563d20800000000000000
+      internalID: 3257881738156403354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1590
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614831f14571a440800000000000000
+      internalID: 4945362791909835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed87a4ea6725fc0800000000000000
+      internalID: -3507610668822372830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511367bc1407f9d70800000000000000
+      internalID: 9052077203926692117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2e806adf59aa00800000000000000
+      internalID: 768250602970820390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1f84458b40ed950800000000000000
+      internalID: 6475618503939912108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_19
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e14c9a2568f3c0800000000000000
+      internalID: -4325596208404766236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_20
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1590
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5eb52137c346b0800000000000000
+      internalID: -5313184121466495389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1518
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e57235a5bfae10800000000000000
+      internalID: 2211185663183020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1518
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a31b65f63765b0800000000000000
+      internalID: -5375267202552059944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1518
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f35b6efc49c750800000000000000
+      internalID: 6325671807224639866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1518
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8156f90bb69499110800000000000000
+      internalID: 1268125496955069720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_25
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1518
+        width: 369
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d130d364da5b7c0800000000000000
+      internalID: -4056145372194333305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_26
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1518
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c316392005f2b0800000000000000
+      internalID: -5551530788663343747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1446
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3895218a4d2e9d4f0800000000000000
+      internalID: -803361655528203901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_28
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1446
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22121a612a5b410800000000000000
+      internalID: 1492277069619471061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_29
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1446
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f8ec0b325e76f80800000000000000
+      internalID: -8113264262231716034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1446
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b51c0b528a7ab0800000000000000
+      internalID: -5009548307939872319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_31
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1446
+        width: 368
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac40d02174d48a0800000000000000
+      internalID: -6319316559277536666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_32
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1446
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda17051d8a1c210800000000000000
+      internalID: 1351546980139118043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1375
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d138941c1238fa0800000000000000
+      internalID: -5799754781077332617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103f7e359de16960800000000000000
+      internalID: 7593611671977799699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_35
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39263d5bebc7f5d30800000000000000
+      internalID: 4422390517637276307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_36
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dea9df3e249b0d0800000000000000
+      internalID: -3406618096149271158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_37
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45bb2e102137ccd0800000000000000
+      internalID: -2538005850985089717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_38
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c261694e22eeedd0800000000000000
+      internalID: -2454776058442849600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_39
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1375
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9124161a9a4eef60800000000000000
+      internalID: 8065466008322974106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1305
+        width: 438
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18510f26f30c9b5b0800000000000000
+      internalID: -5352035303677749887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_41
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1305
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f5eacdfaa83b0a0800000000000000
+      internalID: -6866992518883549336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1305
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081bb378fcf3ff20800000000000000
+      internalID: 3455383483147032585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_43
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1305
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8497dadcc4b8adc0800000000000000
+      internalID: -3627450707909045105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1305
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c872c8f10909aac0800000000000000
+      internalID: -3843530902910895931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_45
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1305
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaa5cd9c11f5fc80800000000000000
+      internalID: -8289454433897174358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_46
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1305
+        width: 440
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb08edac5f82400800000000000000
+      internalID: 299759626885316085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1233
+        width: 368
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ad373248c29de0800000000000000
+      internalID: -1327778753400692533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_48
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1233
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc857fe917a4534e0800000000000000
+      internalID: -2002612607437547313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_49
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1233
+        width: 155
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc6d87e87f5d5a0800000000000000
+      internalID: -6497014696127312659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_50
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1233
+        width: 368
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb5834cf673373f0800000000000000
+      internalID: -904318146998412312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1233
+        width: 368
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc62dcf679657470800000000000000
+      internalID: 8391729440443493557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_52
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1233
+        width: 369
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacd4948d537d6030800000000000000
+      internalID: 3489572131775503534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_53
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1233
+        width: 368
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15dff7a9f4ce5250800000000000000
+      internalID: 5935397935465354525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_54
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1174
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ccd2edaa16de00800000000000000
+      internalID: 1069071295684855394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_55
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1174
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d04f006dc322950800000000000000
+      internalID: 6422762908420410694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_56
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 998
+        width: 15
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ab0ef3dab72c80800000000000000
+      internalID: -8347497964644882064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_57
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 998
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bfbba2576823a00800000000000000
+      internalID: 734797527001070432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_58
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 998
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c77e0a1df80f00800000000000000
+      internalID: 1083393998736310878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_59
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 998
+        width: 123
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78315870070d5f0800000000000000
+      internalID: -733963561661659225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_60
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 998
+        width: 87
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cfcc8f91b6481d0800000000000000
+      internalID: -3349434463564268542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_61
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 998
+        width: 117
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99991bd3d347100800000000000000
+      internalID: 104776026518297010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_62
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 998
+        width: 123
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab420f882c9cdb60800000000000000
+      internalID: 7772258754946550698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_63
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 998
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2777538594b2710800000000000000
+      internalID: 1669508730073871036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_64
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 998
+        width: 15
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc19ccd49f038c20800000000000000
+      internalID: 3207424491651669189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_65
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 998
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b923767c94b4e0800000000000000
+      internalID: -1966775104701876068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEESE INTERACTIVE_66
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 998
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b653bbe8423c9f70800000000000000
+      internalID: 9195279827957143223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CHEESE INTERACTIVE_0: 7476697345807422334
+      CHEESE INTERACTIVE_1: -1934785956199290879
+      CHEESE INTERACTIVE_10: -7864619295618471518
+      CHEESE INTERACTIVE_11: 2520679428502827161
+      CHEESE INTERACTIVE_12: 1550063664932672626
+      CHEESE INTERACTIVE_13: 3257881738156403354
+      CHEESE INTERACTIVE_14: 4945362791909835118
+      CHEESE INTERACTIVE_15: -3507610668822372830
+      CHEESE INTERACTIVE_16: 9052077203926692117
+      CHEESE INTERACTIVE_17: 768250602970820390
+      CHEESE INTERACTIVE_18: 6475618503939912108
+      CHEESE INTERACTIVE_19: -4325596208404766236
+      CHEESE INTERACTIVE_2: 6175904940825837753
+      CHEESE INTERACTIVE_20: -5313184121466495389
+      CHEESE INTERACTIVE_21: 2211185663183020374
+      CHEESE INTERACTIVE_22: -5375267202552059944
+      CHEESE INTERACTIVE_23: 6325671807224639866
+      CHEESE INTERACTIVE_24: 1268125496955069720
+      CHEESE INTERACTIVE_25: -4056145372194333305
+      CHEESE INTERACTIVE_26: -5551530788663343747
+      CHEESE INTERACTIVE_27: -803361655528203901
+      CHEESE INTERACTIVE_28: 1492277069619471061
+      CHEESE INTERACTIVE_29: -8113264262231716034
+      CHEESE INTERACTIVE_3: -6849814356866520383
+      CHEESE INTERACTIVE_30: -5009548307939872319
+      CHEESE INTERACTIVE_31: -6319316559277536666
+      CHEESE INTERACTIVE_32: 1351546980139118043
+      CHEESE INTERACTIVE_33: -5799754781077332617
+      CHEESE INTERACTIVE_34: 7593611671977799699
+      CHEESE INTERACTIVE_35: 4422390517637276307
+      CHEESE INTERACTIVE_36: -3406618096149271158
+      CHEESE INTERACTIVE_37: -2538005850985089717
+      CHEESE INTERACTIVE_38: -2454776058442849600
+      CHEESE INTERACTIVE_39: 8065466008322974106
+      CHEESE INTERACTIVE_4: 4185949624960273193
+      CHEESE INTERACTIVE_40: -5352035303677749887
+      CHEESE INTERACTIVE_41: -6866992518883549336
+      CHEESE INTERACTIVE_42: 3455383483147032585
+      CHEESE INTERACTIVE_43: -3627450707909045105
+      CHEESE INTERACTIVE_44: -3843530902910895931
+      CHEESE INTERACTIVE_45: -8289454433897174358
+      CHEESE INTERACTIVE_46: 299759626885316085
+      CHEESE INTERACTIVE_47: -1327778753400692533
+      CHEESE INTERACTIVE_48: -2002612607437547313
+      CHEESE INTERACTIVE_49: -6497014696127312659
+      CHEESE INTERACTIVE_5: 3964962913587429007
+      CHEESE INTERACTIVE_50: -904318146998412312
+      CHEESE INTERACTIVE_51: 8391729440443493557
+      CHEESE INTERACTIVE_52: 3489572131775503534
+      CHEESE INTERACTIVE_53: 5935397935465354525
+      CHEESE INTERACTIVE_54: 1069071295684855394
+      CHEESE INTERACTIVE_55: 6422762908420410694
+      CHEESE INTERACTIVE_56: -8347497964644882064
+      CHEESE INTERACTIVE_57: 734797527001070432
+      CHEESE INTERACTIVE_58: 1083393998736310878
+      CHEESE INTERACTIVE_59: -733963561661659225
+      CHEESE INTERACTIVE_6: -7341282102975035075
+      CHEESE INTERACTIVE_60: -3349434463564268542
+      CHEESE INTERACTIVE_61: 104776026518297010
+      CHEESE INTERACTIVE_62: 7772258754946550698
+      CHEESE INTERACTIVE_63: 1669508730073871036
+      CHEESE INTERACTIVE_64: 3207424491651669189
+      CHEESE INTERACTIVE_65: -1966775104701876068
+      CHEESE INTERACTIVE_66: 9195279827957143223
+      CHEESE INTERACTIVE_7: -2421791762691013758
+      CHEESE INTERACTIVE_8: 4913227762667103984
+      CHEESE INTERACTIVE_9: 2551426388680048705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

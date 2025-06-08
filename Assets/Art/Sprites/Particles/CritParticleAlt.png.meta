@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6420125c9a8a6cb4db88e27f2d4a25b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 494450121820865821
+    second: CritParticleAlt_0
+  - first:
+      213: -73116839554891205
+    second: CritParticleAlt_1
+  - first:
+      213: -8797306338325126731
+    second: CritParticleAlt_2
+  - first:
+      213: 846431146307118920
+    second: CritParticleAlt_3
+  - first:
+      213: 2329775357390355471
+    second: CritParticleAlt_4
+  - first:
+      213: -1324004210967645634
+    second: CritParticleAlt_5
+  - first:
+      213: 7923842318925328925
+    second: CritParticleAlt_6
+  - first:
+      213: -1280993317952049744
+    second: CritParticleAlt_7
+  - first:
+      213: -7276717452322526332
+    second: CritParticleAlt_8
+  - first:
+      213: -24604755276263102
+    second: CritParticleAlt_9
+  - first:
+      213: 610276810880483911
+    second: CritParticleAlt_10
+  - first:
+      213: -7356119724138324674
+    second: CritParticleAlt_11
+  - first:
+      213: -17804246612190876
+    second: CritParticleAlt_12
+  - first:
+      213: -1288191786198505316
+    second: CritParticleAlt_13
+  - first:
+      213: 8516371422431221659
+    second: CritParticleAlt_14
+  - first:
+      213: -5697717036919120022
+    second: CritParticleAlt_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CritParticleAlt_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1507
+        width: 436
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15084e14c3acd600800000000000000
+      internalID: 494450121820865821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1524
+        width: 469
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b324b3f2f9c3cfef0800000000000000
+      internalID: -73116839554891205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1546
+        width: 346
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a6d3de70b9e580800000000000000
+      internalID: -8797306338325126731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_3
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1601
+        width: 349
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847667a94a02fbb00800000000000000
+      internalID: 846431146307118920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1158
+        width: 425
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cf5b70856055020800000000000000
+      internalID: 2329775357390355471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1177
+        width: 405
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f62c5f2130ade0800000000000000
+      internalID: -1324004210967645634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1164
+        width: 333
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1270c35b9427fd60800000000000000
+      internalID: 7923842318925328925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1174
+        width: 314
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda1d34d5ff83ee0800000000000000
+      internalID: -1280993317952049744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 618
+        width: 273
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b2e63e708e30b90800000000000000
+      internalID: -7276717452322526332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 600
+        width: 269
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24119fdfa1698aff0800000000000000
+      internalID: -24604755276263102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_10
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 737
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742803fa683287800800000000000000
+      internalID: 610276810880483911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_11
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 755
+        width: 125
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d9d75d510d9e990800000000000000
+      internalID: -7356119724138324674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 116
+        width: 205
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469df2dc12fb0cff0800000000000000
+      internalID: -17804246612190876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 97
+        width: 236
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ef05456c6f1ee0800000000000000
+      internalID: -1288191786198505316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_14
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 52
+        width: 193
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971d41efaa303670800000000000000
+      internalID: 8516371422431221659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CritParticleAlt_15
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 64
+        width: 170
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9ebfea84ade0b0800000000000000
+      internalID: -5697717036919120022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CritParticleAlt_0: 494450121820865821
+      CritParticleAlt_1: -73116839554891205
+      CritParticleAlt_10: 610276810880483911
+      CritParticleAlt_11: -7356119724138324674
+      CritParticleAlt_12: -17804246612190876
+      CritParticleAlt_13: -1288191786198505316
+      CritParticleAlt_14: 8516371422431221659
+      CritParticleAlt_15: -5697717036919120022
+      CritParticleAlt_2: -8797306338325126731
+      CritParticleAlt_3: 846431146307118920
+      CritParticleAlt_4: 2329775357390355471
+      CritParticleAlt_5: -1324004210967645634
+      CritParticleAlt_6: 7923842318925328925
+      CritParticleAlt_7: -1280993317952049744
+      CritParticleAlt_8: -7276717452322526332
+      CritParticleAlt_9: -24604755276263102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

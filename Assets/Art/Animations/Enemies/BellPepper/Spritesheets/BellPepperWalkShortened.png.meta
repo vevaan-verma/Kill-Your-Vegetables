@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: ed1e3858e45eec24380db6466307a866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5387358398000483632
+    second: BellPepperWalkShortened_0
+  - first:
+      213: 2773751408124443275
+    second: BellPepperWalkShortened_1
+  - first:
+      213: 9062501567856480761
+    second: BellPepperWalkShortened_2
+  - first:
+      213: -6560518606336849388
+    second: BellPepperWalkShortened_3
+  - first:
+      213: 3990466641246031656
+    second: BellPepperWalkShortened_4
+  - first:
+      213: 9067333157320701009
+    second: BellPepperWalkShortened_5
+  - first:
+      213: 8751381115918311812
+    second: BellPepperWalkShortened_6
+  - first:
+      213: 7099501563602181498
+    second: BellPepperWalkShortened_7
+  - first:
+      213: 7564163320946124882
+    second: BellPepperWalkShortened_8
+  - first:
+      213: 5350105220229467333
+    second: BellPepperWalkShortened_9
+  - first:
+      213: -4887150288501135675
+    second: BellPepperWalkShortened_10
+  - first:
+      213: -8379399981689975740
+    second: BellPepperWalkShortened_11
+  - first:
+      213: 2928698722995133374
+    second: BellPepperWalkShortened_12
+  - first:
+      213: 4793129907060782942
+    second: BellPepperWalkShortened_13
+  - first:
+      213: 1232897695792442549
+    second: BellPepperWalkShortened_14
+  - first:
+      213: -1444414641563882060
+    second: BellPepperWalkShortened_15
+  - first:
+      213: -5002014784721874060
+    second: BellPepperWalkShortened_16
+  - first:
+      213: -1945334686736661420
+    second: BellPepperWalkShortened_17
+  - first:
+      213: 1324390181530758579
+    second: BellPepperWalkShortened_18
+  - first:
+      213: 7789451554049062351
+    second: BellPepperWalkShortened_19
+  - first:
+      213: 522736496420130128
+    second: BellPepperWalkShortened_20
+  - first:
+      213: -4928296805143824489
+    second: BellPepperWalkShortened_21
+  - first:
+      213: 2982466030214502107
+    second: BellPepperWalkShortened_22
+  - first:
+      213: -4461081219198699861
+    second: BellPepperWalkShortened_23
+  - first:
+      213: -2545325861882171364
+    second: BellPepperWalkShortened_24
+  - first:
+      213: 8170484186214996374
+    second: BellPepperWalkShortened_25
+  - first:
+      213: 3435538019400912805
+    second: BellPepperWalkShortened_26
+  - first:
+      213: -7417481876643526952
+    second: BellPepperWalkShortened_27
+  - first:
+      213: -5219449297296981689
+    second: BellPepperWalkShortened_28
+  - first:
+      213: -2834997700879947479
+    second: BellPepperWalkShortened_29
+  - first:
+      213: 7035834182977706893
+    second: BellPepperWalkShortened_30
+  - first:
+      213: 1341172432032493101
+    second: BellPepperWalkShortened_31
+  - first:
+      213: 7638864070708859110
+    second: BellPepperWalkShortened_32
+  - first:
+      213: 8908877795607697003
+    second: BellPepperWalkShortened_33
+  - first:
+      213: -4456473485470406801
+    second: BellPepperWalkShortened_34
+  - first:
+      213: -2250649327910046462
+    second: BellPepperWalkShortened_35
+  - first:
+      213: 4053329748705717863
+    second: BellPepperWalkShortened_36
+  - first:
+      213: -8286389738288727416
+    second: BellPepperWalkShortened_37
+  - first:
+      213: -2334009334375449604
+    second: BellPepperWalkShortened_38
+  - first:
+      213: -674360413168048708
+    second: BellPepperWalkShortened_39
+  - first:
+      213: -787262142168736624
+    second: BellPepperWalkShortened_40
+  - first:
+      213: 8305250310399791219
+    second: BellPepperWalkShortened_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b67994124c35b0800000000000000
+      internalID: -5387358398000483632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3f70b5385e7620800000000000000
+      internalID: 2773751408124443275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f19188292974cd70800000000000000
+      internalID: 9062501567856480761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a83fe261b54f4a0800000000000000
+      internalID: -6560518606336849388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f048f844cf06730800000000000000
+      internalID: 3990466641246031656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b83e3773a5dd70800000000000000
+      internalID: 9067333157320701009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_6
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4816f5412c6237970800000000000000
+      internalID: 8751381115918311812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_7
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d96dcae0f768260800000000000000
+      internalID: 7099501563602181498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2586808b67e49f860800000000000000
+      internalID: 7564163320946124882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8dba0a546f3a40800000000000000
+      internalID: 5350105220229467333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c621f1b4ba5d2cb0800000000000000
+      internalID: -4887150288501135675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_11
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c4474dc1466bb80800000000000000
+      internalID: -8379399981689975740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperWalkShortened_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbd34eb8f3d4a820800000000000000
+      internalID: 2928698722995133374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3694ee3333b54a24992a7be06f504e83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BellPepperWalkShortened_0: -5387358398000483632
+      BellPepperWalkShortened_1: 2773751408124443275
+      BellPepperWalkShortened_10: -4887150288501135675
+      BellPepperWalkShortened_11: -8379399981689975740
+      BellPepperWalkShortened_12: 2928698722995133374
+      BellPepperWalkShortened_13: 4793129907060782942
+      BellPepperWalkShortened_2: 9062501567856480761
+      BellPepperWalkShortened_3: -6560518606336849388
+      BellPepperWalkShortened_4: 3990466641246031656
+      BellPepperWalkShortened_5: 9067333157320701009
+      BellPepperWalkShortened_6: 8751381115918311812
+      BellPepperWalkShortened_7: 7099501563602181498
+      BellPepperWalkShortened_8: 7564163320946124882
+      BellPepperWalkShortened_9: 5350105220229467333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

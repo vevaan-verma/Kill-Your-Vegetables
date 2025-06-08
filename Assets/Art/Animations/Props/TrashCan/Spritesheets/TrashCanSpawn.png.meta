@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 2fa74a2eb0e8b724eae2d88539c275ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6197711589974315233
+    second: TrashCanSpawn_0
+  - first:
+      213: 5518950872667101178
+    second: TrashCanSpawn_1
+  - first:
+      213: -5137176139614552203
+    second: TrashCanSpawn_2
+  - first:
+      213: -5645898172767938099
+    second: TrashCanSpawn_3
+  - first:
+      213: -4614831814665736398
+    second: TrashCanSpawn_4
+  - first:
+      213: -8204496793006488672
+    second: TrashCanSpawn_5
+  - first:
+      213: 8810456279952113059
+    second: TrashCanSpawn_6
+  - first:
+      213: 4275332123716598547
+    second: TrashCanSpawn_7
+  - first:
+      213: 6311864800577283101
+    second: TrashCanSpawn_8
+  - first:
+      213: 6720003827306539048
+    second: TrashCanSpawn_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrashCanSpawn_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3072
+        width: 882
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6243552e4df9a0800000000000000
+      internalID: -6197711589974315233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_1
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3072
+        width: 904
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7972af390479c40800000000000000
+      internalID: 5518950872667101178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_2
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2048
+        width: 757
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f79a9d48515b8b0800000000000000
+      internalID: -5137176139614552203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_3
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3072
+        width: 914
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9d32e668db5a1b0800000000000000
+      internalID: -5645898172767938099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_4
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 3072
+        width: 936
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6dac3ae2d4ffb0800000000000000
+      internalID: -4614831814665736398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2048
+        width: 902
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a34404d2a5c32e80800000000000000
+      internalID: -8204496793006488672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_6
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2048
+        width: 821
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adb7ab8e47054a70800000000000000
+      internalID: 8810456279952113059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_7
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2048
+        width: 890
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb1f23ae7055b30800000000000000
+      internalID: 4275332123716598547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1024
+        width: 878
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1463bc289f389750800000000000000
+      internalID: 6311864800577283101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanSpawn_9
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1024
+        width: 882
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282fd770ef324d50800000000000000
+      internalID: 6720003827306539048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TrashCanSpawn_0: -6197711589974315233
+      TrashCanSpawn_1: 5518950872667101178
+      TrashCanSpawn_2: -5137176139614552203
+      TrashCanSpawn_3: -5645898172767938099
+      TrashCanSpawn_4: -4614831814665736398
+      TrashCanSpawn_5: -8204496793006488672
+      TrashCanSpawn_6: 8810456279952113059
+      TrashCanSpawn_7: 4275332123716598547
+      TrashCanSpawn_8: 6311864800577283101
+      TrashCanSpawn_9: 6720003827306539048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

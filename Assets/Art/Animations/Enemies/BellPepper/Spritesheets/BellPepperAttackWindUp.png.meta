@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: f0be03fece2d14340922ef3f48eb1164
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4826557570787220585
+    second: BellPepperAttackWindUp_0
+  - first:
+      213: 6157725895578937837
+    second: BellPepperAttackWindUp_1
+  - first:
+      213: 3410426143783021647
+    second: BellPepperAttackWindUp_2
+  - first:
+      213: -2461831120182738544
+    second: BellPepperAttackWindUp_3
+  - first:
+      213: 8574643862204797633
+    second: BellPepperAttackWindUp_4
+  - first:
+      213: -3044449205474124271
+    second: BellPepperAttackWindUp_5
+  - first:
+      213: 1584445267486856794
+    second: BellPepperAttackWindUp_6
+  - first:
+      213: 1820708535695806274
+    second: BellPepperAttackWindUp_7
+  - first:
+      213: 315321370967016042
+    second: BellPepperAttackWindUp_8
+  - first:
+      213: -6917686260575024789
+    second: BellPepperAttackWindUp_9
+  - first:
+      213: -8496541028200210300
+    second: BellPepperAttackWindUp_10
+  - first:
+      213: -435468763850884408
+    second: BellPepperAttackWindUp_11
+  - first:
+      213: 2021405058077207355
+    second: BellPepperAttackWindUp_12
+  - first:
+      213: -3326908350817729417
+    second: BellPepperAttackWindUp_13
+  - first:
+      213: -2171510140630934820
+    second: BellPepperAttackWindUp_14
+  - first:
+      213: 7064884129349321667
+    second: BellPepperAttackWindUp_15
+  - first:
+      213: 8963970369304010830
+    second: BellPepperAttackWindUp_16
+  - first:
+      213: -7404995889553998606
+    second: BellPepperAttackWindUp_17
+  - first:
+      213: 2791220592774021988
+    second: BellPepperAttackWindUp_18
+  - first:
+      213: -6577700578085169746
+    second: BellPepperAttackWindUp_19
+  - first:
+      213: -3741457344595421238
+    second: BellPepperAttackWindUp_20
+  - first:
+      213: 5792260815257190677
+    second: BellPepperAttackWindUp_21
+  - first:
+      213: -3477224563199789487
+    second: BellPepperAttackWindUp_22
+  - first:
+      213: -4638869348722500081
+    second: BellPepperAttackWindUp_23
+  - first:
+      213: -1504592353630679008
+    second: BellPepperAttackWindUp_24
+  - first:
+      213: 1227878658506450245
+    second: BellPepperAttackWindUp_25
+  - first:
+      213: 5779232674418544766
+    second: BellPepperAttackWindUp_26
+  - first:
+      213: -823511938504987463
+    second: BellPepperAttackWindUp_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10cb6fa117271f469e57fd6baebd10e
+      internalID: 1991634326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97480b8f88587e4797278963ba912b5
+      internalID: -937487003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b217748df84e0849982fb6f75f698b5
+      internalID: -1762708657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd4b817eb6e114999690d835545a15
+      internalID: -626404095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659bab0a2b49e9940809515d60d4ef69
+      internalID: -1288672694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_5
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fada496a872d4694c82ed0566e93ba5a
+      internalID: -1345254319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_6
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5e5c31a5be81469108e5a83b545d3
+      internalID: -1055339440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_7
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b45389b380d24d92e0f4bb0584598
+      internalID: -255394141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074bd21190781647b58d698240688a0
+      internalID: -1543701883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60458a77636744ea5382fab8a62172
+      internalID: -857457506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellPepperAttackWindUp_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a99d9863dea2a428d84025dda81b70
+      internalID: 2017398471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51337deb5856b3847a1bf0230f0f8516
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BellPepperAttackWindUp_0: 1991634326
+      BellPepperAttackWindUp_1: -937487003
+      BellPepperAttackWindUp_10: 2017398471
+      BellPepperAttackWindUp_11: -298963956
+      BellPepperAttackWindUp_12: 539306865
+      BellPepperAttackWindUp_13: 1050714100
+      BellPepperAttackWindUp_14: 1311371821
+      BellPepperAttackWindUp_15: -1868346326
+      BellPepperAttackWindUp_16: -14258606
+      BellPepperAttackWindUp_2: -1762708657
+      BellPepperAttackWindUp_3: -626404095
+      BellPepperAttackWindUp_4: -1288672694
+      BellPepperAttackWindUp_5: -1345254319
+      BellPepperAttackWindUp_6: -1055339440
+      BellPepperAttackWindUp_7: -255394141
+      BellPepperAttackWindUp_8: -1543701883
+      BellPepperAttackWindUp_9: -857457506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
