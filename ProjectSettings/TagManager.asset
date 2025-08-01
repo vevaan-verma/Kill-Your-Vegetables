@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Unwalkable
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Weapon
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 113154699
+    locked: 0
+  - name: Props
+    uniqueID: 1083913719
+    locked: 0
+  - name: Items
+    uniqueID: 291835115
+    locked: 0
+  - name: Enemies
+    uniqueID: 111108597
+    locked: 0
+  - name: Player
+    uniqueID: 4094891763
+    locked: 0
+  - name: GameplayIcons
+    uniqueID: 3821932749
+    locked: 0
+  - name: Player Overlay
+    uniqueID: 902921659
+    locked: 0
+  m_RenderingLayers:
+  - Default
